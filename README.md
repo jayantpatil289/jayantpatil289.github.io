@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website
 </h1>
 <p align="center">
   The first iteration of <a href="https://jayantpatil289.github.io/" target="_blank">jayantpatil289.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
